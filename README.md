@@ -48,7 +48,7 @@
 
 - **GitHub**: [JibbranAli](https://github.com/JibbranAli)
 - **LinkedIn**: [linkedin.com/in/jibbranali](https://linkedin.com/in/jibbranali)
-- **Email**: jibbran.ali@example.com
+- **Email**: jibbranali1997@gmail.com
 
 ---
 
