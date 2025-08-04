@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JibbranAli/JibbranAli/main/assets/banner.png" alt="Jibbran Ali — DevOps & AI Engineer" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/JibbranAli/JibbranAli/main/assets/jibbran_banner_dark.png" alt="Jibbran Ali — DevOps + AI Engineer" style="max-width: 100%; border-radius: 12px;" />
 </p>
 
 <p align="center">
