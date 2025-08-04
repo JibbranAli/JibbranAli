@@ -1,95 +1,113 @@
-<!-- 🔥 PROFESSIONAL DARK HEADER WITH STABLE IMAGE -->
+<!-- HEADER SECTION -->
 <p align="center">
-  <img src="https://github.com/JibbranAli/JibbranAli/blob/main/assets/banner.png?raw=true" alt="Jibbran Ali | DevOps + AI Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/JibbranAli/JibbranAli/main/assets/banner.png" alt="Jibbran Ali — DevOps & AI Engineer" style="max-width: 100%;" />
 </p>
 
-<!-- TYPING ANIMATION (STABLE) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+%7C+LLMs+%7C+Agentic+AI+Architect;Kubernetes+%7C+Docker+%7C+CI%2FCD+Pipelines;Python+%7C+Streamlit+%7C+Gemini+%7C+LangChain;Automation+%2B+Infra+as+Code+%2B+Voice+AI" />
-</p>
-
----
-
-## 👋 Hi, I'm **Jibbran Ali**
-
-I'm a **DevOps Engineer** and **AI Systems Builder** — blending automation, large language models, and modern infrastructure to create powerful, scalable systems.
-
----
-
-### 🧠 About Me
-
-- 🚀 Focused on DevOps × Agentic AI × Full-Stack Tools
-- 💡 Passionate about building automation-first systems that scale
-- 🧩 Love solving deep system challenges — cloud-native, CI/CD, observability, AI agents
-- 🔗 Contributor to open-source and AI+DevOps learning ecosystems
-
----
-
-### 🛠️ Technical Skills
-
-| Domain        | Technologies |
-|--------------|--------------|
-| **Languages** | Python, Shell, Bash |
-| **AI/LLM** | LangChain, Gemini, OpenAI, Agentic Frameworks |
-| **DevOps Tools** | Docker, Kubernetes, Jenkins, GitHub Actions |
-| **Monitoring** | Prometheus, Grafana |
-| **Web & APIs** | Flask, FastAPI, Streamlit |
-| **Infra** | Linux (RHEL 9), Apache, NGINX |
-| **Cloud & Infra** | EC2, Terraform, Private Registries |
-
----
-
-### 🌟 Featured Projects
-
-#### 🔹 **Agentic AI Startup Builder**
-> Autonomous AI System (LangChain + Gemini) that ideates & designs full startup decks, marketing plans, & MVP blueprints.  
-![Agentic AI](https://github.com/JibbranAli/assets/blob/main/projects/agentic-ai.png?raw=true)
-
-#### 🔹 **QR Code Attendance System**
-> Flask app for live attendance with QR scan, secure logging, and Excel-based backups.  
-![QR App](https://github.com/JibbranAli/assets/blob/main/projects/qr-attendance.png?raw=true)
-
-#### 🔹 **Dockerfile Optimizer**
-> Upload any Dockerfile → Optimized using Gemini API → Receive better security, layering, and caching practices.  
-![Docker Optimizer](https://github.com/JibbranAli/assets/blob/main/projects/docker-optimizer.png?raw=true)
-
-#### 🔹 **DevOps Pipeline - Flask to EC2**
-> Jenkins + Docker + Monitoring stack for Flask app auto-deployments.  
-![CI/CD](https://github.com/JibbranAli/assets/blob/main/projects/devops-pipeline.png?raw=true)
-
-#### 🔹 **Voice to Action AI**
-> LangChain + Gemini-powered voice interface to trigger file organizing, report generation & meeting scheduler.  
-![Voice AI](https://github.com/JibbranAli/assets/blob/main/projects/voice-ai.png?raw=true)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JibbranAli&show_icons=true&theme=tokyonight&border_radius=10" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JibbranAli&theme=tokyonight" height="160"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF2C2C&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+%7C+LLMs+Specialist+%7C+Agentic+AI+Architect;Kubernetes+%7C+Docker+%7C+GitHub+Actions+%7C+CI%2FCD;LangChain+%7C+Streamlit+%7C+Gemini+%7C+Automation+Architect" alt="Typing Animation" />
 </p>
 
 ---
 
-### 📫 Let's Connect
+## 🚀 About Me
 
-- 🔗 **GitHub**: [JibbranAli](https://github.com/JibbranAli)
+> ⚙️ **DevOps | AI | Agentic Systems | Full-Stack Developer**
+
+🎯 Passionate about building automation pipelines, containerized microservices, and intelligent agentic systems that *think and act*.
+
+💡 Blending infrastructure, AI, and cloud-native practices to build scalable, secure, and insightful platforms.
+
+---
+
+## 🧠 Skills & Technologies
+
+| Domain              | Tools & Skills                                                                 |
+|---------------------|----------------------------------------------------------------------------------|
+| **Programming**      | Python, Bash, JavaScript                                                        |
+| **DevOps & Cloud**   | Docker, Kubernetes, Helm, Jenkins, GitHub Actions, EC2, Apache, RHEL 9          |
+| **AI & LLMs**        | LangChain, Gemini, OpenAI, Agentic AI, Prompt Engineering                      |
+| **Monitoring**       | Prometheus, Grafana, Alertmanager                                               |
+| **Web Dev**          | HTML, CSS, JS, React, Streamlit, FastAPI, Flask                                 |
+| **CI/CD**            | Jenkins Pipelines, GitHub Actions, DockerHub                                   |
+
+---
+
+## 🌟 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%">
+      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/artificial-intelligence.png" width="50" />  
+      <br />
+      <b>Agentic AI Startup Builder</b><br />
+      <sub>LangChain + Gemini + Startup Logic</sub>
+      <br />
+      Multi-agent AI that ideates and builds startups end-to-end.
+    </td>
+    <td width="33%">
+      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/qr-code.png" width="50" />
+      <br />
+      <b>QR Attendance System</b><br />
+      <sub>Flask + Excel + Realtime Logs</sub>
+      <br />
+      Secure QR check-in system with real-time logging.
+    </td>
+    <td width="33%">
+      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/docker.png" width="50" />
+      <br />
+      <b>Docker Optimizer</b><br />
+      <sub>Streamlit + Gemini</sub>
+      <br />
+      Upload Dockerfiles, optimize with LLM best practices.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
+      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/deployment.png" width="50" />
+      <br />
+      <b>DevOps Deployment Pipeline</b><br />
+      <sub>Jenkins + Docker + Flask</sub>
+      <br />
+      Full CI/CD deployment pipeline with monitoring on cloud VMs.
+    </td>
+    <td width="33%">
+      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/voice-recognition-scan.png" width="50" />
+      <br />
+      <b>AI Voice Assistant</b><br />
+      <sub>LangChain + Voice2Text</sub>
+      <br />
+      Use voice to trigger AI actions on files and schedules.
+    </td>
+    <td width="33%">
+      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/api.png" width="50" />
+      <br />
+      <b>LLM Dashboard API</b><br />
+      <sub>FastAPI + Gemini</sub>
+      <br />
+      RESTful API to process text prompts and return AI responses.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Contact Me
+
+- 🔗 **GitHub**: [@JibbranAli](https://github.com/JibbranAli)
 - 💼 **LinkedIn**: [linkedin.com/in/jibbranali](https://linkedin.com/in/jibbranali)
 - 📧 **Email**: jibbranali1997@gmail.com
 
 ---
 
-> 💬 *“Solving problems at the intersection of automation, intelligence, and systems.”*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff2c2c&height=2" />
+</p>
 
----
+<p align="center" style="color: #B0B0B0">
+  <em>“Code with clarity. Build with purpose. Automate with precision.”</em>
+</p>
 
-### 💡 Suggestions:
-If you don’t have the banner and project images yet, I can design and send them for upload. Just let me know.
-
-Want to add:
-- CLI-style "About Me" block?
-- Timeline of milestones?
-- Dark-mode toggle badge?
-
-I’m ready to help make this **legendary**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JibbranAli&show_icons=true&theme=radical" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JibbranAli&theme=radical" width="450"/>
+</p>
