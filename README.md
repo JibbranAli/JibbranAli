@@ -1,55 +1,80 @@
-# Jibbran Ali
+<!-- Header Banner (optional custom banner - you can replace the link below with your own image hosted on GitHub or any CDN) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=089cf1&height=250&section=header&text=Jibbran%20Ali%20%F0%9F%9A%80&fontSize=45&fontColor=ffffff&animation=twinkling" />
+</p>
 
-👋 Hi, I’m **Jibbran Ali** — a passionate developer and DevOps enthusiast. I specialize in building impactful tools and systems that merge DevOps, AI automation, and modern web technologies.
+---
+
+# 👨‍💻 Jibbran Ali
+
+*The Mind Behind Autonomous Systems & Scalable Infrastructures*
+
+![Profile Views](https://komarev.com/ghpvc/?username=JibbranAli&color=blue)
+![Followers](https://img.shields.io/github/followers/JibbranAli?label=Follow&style=social)
 
 ---
 
 ## 🚀 About Me
 
-- **DevOps | AI | Agentic Systems | Full-Stack Developer**
-- Focused on crafting solutions at the intersection of automation, cloud-native infrastructure, and AI.
-- Strong proponent of open-source, clean architecture, and scalable systems.
+- 🧠 **DevOps Architect | AI Engineer | Full-Stack Developer**
+- 🌐 Working at the nexus of *cloud*, *automation*, and *intelligent agents*
+- 🤖 Building systems that *think*, *decide*, and *deploy themselves*
+- ❤️ Passionate about OSS, reproducible infra, and containerized intelligence
 
 ---
 
-## 🛠️ Top Skills & Technologies
+## 🛠️ Tech Stack
 
-- **Python**: Core & Advanced | Flask | FastAPI | Streamlit
-- **Docker**: Docker Compose | Private Registries
-- **Kubernetes**: Single & Multi-node Setups | Deployments | Helm | Monitoring
-- **Jenkins**: CI/CD Pipelines | GitHub Integration
-- **AI/LLM**: LangChain | Google Gemini | Agentic AI Systems | Generative AI (Gemini, OpenAI, etc.)
-- **Observability**: Prometheus & Grafana (Container Monitoring, Alerting)
-- **Web Dev**: HTML | CSS | JavaScript | React | Bolt.new
-- **Linux (RHEL 9)**: SysAdmin | Apache | Network Configs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,kubernetes,jenkins,linux,bash,git,github,aws,flask,fastapi,streamlit,react,html,css,javascript,prometheus,grafana" />
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🧩 Featured Projects
 
-### **Agentic AI Startup Co-Founder (LangChain + Gemini)**
-> Multi-agent system that ideates, validates, and builds complete startup concepts — including pitch decks, GTM strategies, and more.
+### 🤖 **Agentic AI Startup Co-Founder**
+LangChain + Gemini + Streamlit + React  
+→ Multi-agent system that *ideates, validates, and builds startup blueprints*
 
-### **QR Code Attendance System (Flask + QR + Excel)**
-> Scan-based self check-in system with secure logging and real-time verification.
+### 🧾 **QR Code Attendance System**
+Flask + QR + Excel + Streamlit  
+→ Real-time, camera-driven QR attendance system with logging and live dashboards
 
-### **Docker Optimizer (Gemini + Flask + Streamlit)**
-> Upload Dockerfiles, optimize them using Gemini API, and receive best-practice recommendations.
+### 🐳 **Docker Optimizer**
+Gemini Pro + Flask + Streamlit  
+→ Upload a Dockerfile → Get AI-optimized, production-grade version instantly
 
-### **DevOps Deployment Pipeline (Flask App + Jenkins + Docker)**
-> Professional pipeline for building, testing, and deploying Flask apps to VM/EC2 environments with monitoring.
+### 🔄 **CI/CD DevOps Engine**
+Jenkins + Docker + Prometheus  
+→ Auto build-test-deploy pipeline with rollback, Grafana logs & alerting
 
-### **AI Voice-to-Action Assistant**
-> Voice command interface for automating tasks like file organizing and calendar updates using LangChain + Gemini.
-
----
-
-## 📫 Contact
-
-- **GitHub**: [JibbranAli](https://github.com/JibbranAli)
-- **LinkedIn**: [linkedin.com/in/jibbranali](https://linkedin.com/in/jibbranali)
-- **Email**: jibbranali1997@gmail.com
+### 🗣️ **AI Voice Assistant**
+LangChain Agents + Gemini + Voice Interface  
+→ Speak to your assistant: organize files, update calendars, launch tasks
 
 ---
 
-*Always exploring, building, and innovating at the crossroads of DevOps and AI.*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JibbranAli&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JibbranAli&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🌍 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/jibbranali)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/JibbranAli)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jibbranali1997@gmail.com)
+
+---
+
+> 🧭 *I don’t just write scripts. I engineer autonomy.*  
+> 💬 *Let’s build systems that think, learn, and deploy themselves.*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=11efef&height=120&section=footer"/>
+</p>
