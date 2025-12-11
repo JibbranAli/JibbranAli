@@ -1,6 +1,6 @@
 <!-- ===================================================== -->
 <!--                 JIBBRAN ALI — README                  -->
-<!--     The Most Powerful DevOps + AI GitHub Profile      -->
+<!--      DevOps | AI Engineering | Agentic Automation     -->
 <!-- ===================================================== -->
 
 <p align="center">
@@ -18,49 +18,45 @@
 
 # 🚀 **About Me**
 
-> ⚙️ **DevOps | AI Engineering | Agentic Systems | Infrastructure Automation**
+> ⚙️ *DevOps | AI Engineering | Agentic Systems | Automation Architect*
 
-I design **automated systems**, **cloud architectures**, and **intelligent AI agents** that seamlessly merge DevOps + AI into one powerful engine.
+I design **high-performance infrastructure**, **autonomous AI systems**, and **cloud-native automation pipelines** that combine DevOps + AI into one powerful ecosystem.
 
-- 🚀 Building autonomous **AI Agents & automation pipelines**  
-- 🧠 Leveraging LLMs for engineering excellence  
-- 🐳 Containerization & scalable microservices expert  
-- ☁️ Cloud-native deployments with high reliability  
-- 🔄 CI/CD pipelines with industry-grade automation  
-- 📡 Obsessed with monitoring, stability & performance  
+- 🧠 Architecting multi-agent AI systems  
+- 🚀 Automating deployments & microservices workflows  
+- 🐳 Docker + Kubernetes for scalable infra  
+- 🔄 CI/CD powered development excellence  
+- ☁️ Cloud-native VM orchestration (Linux, EC2, RHEL)  
+- 📈 Monitoring with Prometheus + Grafana  
 
 ---
 
-# 🛠️ **Tech Stack & Skills**
+# 🛠️ **Tech Stack & Tools**
 
 ### **Languages**
-![Python](https://img.shields.io/badge/Python-FF2C2C?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-FF2C2C?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF2C2C?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1c1c1c?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![Bash](https://img.shields.io/badge/Bash-1c1c1c?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1c1c1c?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes)
-![Helm](https://img.shields.io/badge/Helm-000000?style=for-the-badge&logo=helm)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions)
-![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins)
-![RHEL](https://img.shields.io/badge/RHEL-000000?style=for-the-badge&logo=redhat)
+![Docker](https://img.shields.io/badge/Docker-ff2c2c?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-ff2c2c?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-ff2c2c?style=for-the-badge&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff2c2c?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-ff2c2c?style=for-the-badge&logo=jenkins&logoColor=white)
+![RHEL](https://img.shields.io/badge/RHEL-ff2c2c?style=for-the-badge&logo=redhat&logoColor=white)
 
-### **AI, LLMs & Agents**
-![LangChain](https://img.shields.io/badge/LangChain-FF2C2C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-FF2C2C?style=for-the-badge&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-FF2C2C?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/Agentic_Systems-FF2C2C?style=for-the-badge)
+### **AI, LLMs & Frameworks**
+![LangChain](https://img.shields.io/badge/LangChain-1c1c1c?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-1c1c1c?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-1c1c1c?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-1c1c1c?style=for-the-badge&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1c1c1c?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1c1c1c?style=for-the-badge&logo=flask&logoColor=white)
 
 ### **Monitoring**
-![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana)
-
-### **Frameworks**
-![React](https://img.shields.io/badge/React-FF2C2C?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-FF2C2C?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-FF2C2C?style=for-the-badge&logo=flask)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF2C2C?style=for-the-badge&logo=streamlit)
+![Prometheus](https://img.shields.io/badge/Prometheus-1c1c1c?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-1c1c1c?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
@@ -69,49 +65,53 @@ I design **automated systems**, **cloud architectures**, and **intelligent AI ag
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/artificial-intelligence.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/ff2c2c/artificial-intelligence.png" width="50" />
       <h3>Agentic AI Startup Builder</h3>
-      <sub>LangChain • Gemini • Multi-Agent Logic</sub>
+      <sub>LangChain • Gemini • Multi-Agent Collaboration</sub>
       <br/><br/>
-      Intelligent multi-agent system that ideates and builds startup concepts automatically.
+      Autonomous AI system that ideates & builds startup concepts end-to-end.
     </td>
+
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/qr-code.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/ff2c2c/qr-code.png" width="50" />
       <h3>QR Attendance System</h3>
-      <sub>Flask • Excel Automation • Realtime Logs</sub>
+      <sub>Flask • Excel Automation • Real-Time Logs</sub>
       <br/><br/>
-      A secure QR-based attendance system with instant logging & data analytics.
+      Secure QR-based attendance tracking with real-time reporting.
     </td>
+
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/docker.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/ff2c2c/docker.png" width="50" />
       <h3>Docker Optimizer</h3>
       <sub>Streamlit • Gemini</sub>
       <br/><br/>
-      Analyze + Optimize any Dockerfile using AI best practices.
+      AI-powered Dockerfile analyzer that generates performance-optimized versions.
     </td>
   </tr>
 
   <tr>
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/deployment.png" width="50" />
-      <h3>CI/CD Deployment Pipeline</h3>
-      <sub>Jenkins • Docker • Cloud Linux VM</sub>
+      <img src="https://img.icons8.com/ios-filled/100/ff2c2c/deployment.png" width="50" />
+      <h3>DevOps CI/CD Pipeline</h3>
+      <sub>Jenkins • Docker • Linux VM</sub>
       <br/><br/>
-      Multi-stage production-ready CI/CD pipeline with full observability.
+      Enterprise-level pipeline with automated test, build, deploy & monitoring.
     </td>
+
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/voice-recognition-scan.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/ff2c2c/voice-recognition-scan.png" width="50" />
       <h3>AI Voice Assistant</h3>
-      <sub>LLMs • Speech Recognition</sub>
+      <sub>LLMs • Voice Recognition</sub>
       <br/><br/>
-      Execute tasks, analyze files, and generate actions using pure voice commands.
+      Hands-free automation: trigger tasks, read files, execute operations via voice.
     </td>
+
     <td align="center" width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/FF2C2C/api.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/ff2c2c/api.png" width="50" />
       <h3>LLM Dashboard API</h3>
       <sub>FastAPI • Gemini</sub>
       <br/><br/>
-      A scalable API for AI text processing, inference & automation.
+      Production-ready API for text processing, intelligence & automation.
     </td>
   </tr>
 </table>
@@ -121,17 +121,30 @@ I design **automated systems**, **cloud architectures**, and **intelligent AI ag
 # 📊 **GitHub Analytics**
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.vercel.app/api?username=JibbranAli&show_icons=true&theme=radical" />
-  <img width="450" src="https://github-readme-streak-stats.herokuapp.com?user=JibbranAli&theme=radical" />
+
+  <!-- GitHub Readme Stats (validated) -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=JibbranAli&show_icons=true&count_private=true&include_all_commits=true&theme=radical&cache_seconds=86400" 
+    alt="GitHub Stats"
+    width="500"
+  />
+
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=JibbranAli&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" 
+    alt="GitHub Streak" 
+    width="500"
+  />
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JibbranAli&theme=radical&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JibbranAli&theme=radical&no-frame=true&margin-w=10" width="900" />
 </p>
 
 ---
 
-# 🌐 **Connect With Me**
+# 🌐 **Contact Me**
 
 - 🔗 **GitHub:** https://github.com/JibbranAli  
 - 💼 **LinkedIn:** https://linkedin.com/in/jibbranali  
@@ -140,10 +153,7 @@ I design **automated systems**, **cloud architectures**, and **intelligent AI ag
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2c2c&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff2c2c&height=120&section=footer" />
 </p>
 
-<p align="center">
-  <em>“Code with clarity. Build with purpose. Automate with precision.”</em>
-</p>
-
+<p align="center"><em>“Code with clarity. Build with purpose. Automate with precision.”</em></p>
