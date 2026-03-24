@@ -28,7 +28,7 @@
 | **AI & LLMs**        | LangChain, Gemini, OpenAI, Agentic AI, Prompt Engineering                      |
 | **Monitoring**       | Prometheus, Grafana, Alertmanager                                               |
 | **Web Dev**          | HTML, CSS, JS, React, Streamlit, FastAPI, Flask                                 |
-| **CI/CD**            | Jenkins Pipelines, GitHub Actions, DockerHub                                   |
+| **CI/CD**            | Jenkins-Pipelines, GitHub Actions, DockerHub                                   |
 
 ---
 
